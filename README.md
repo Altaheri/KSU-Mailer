@@ -20,35 +20,26 @@ The components of the KSU-Mailer system
 <img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Software%20System%20Components.png" alt="The components of the proposed ATCNet model" width="500"/>
 </p>
 <p align="center">
-User Interface.
+<b> User Interface</b> 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/GUI.png" alt="The components of the proposed ATCNet model" width="800"/>
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/GUI.png" width="800"/>
 </p>
-
-
-
-##
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide3.JPG" alt="The components of the proposed ATCNet model" />
-</p>
-
-##
 
 
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide4.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide3.JPG" width="700" />
 </p>
 
 ##
 
+
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide5.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide4.JPG" width="700" />
 </p>
 
 ##
@@ -56,7 +47,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide7.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide5.JPG" width="700" />
 </p>
 
 ##
@@ -64,7 +55,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide8.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide7.JPG" width="700" />
 </p>
 
 ##
@@ -72,7 +63,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide9.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide8.JPG" width="700" />
 </p>
 
 ##
@@ -80,7 +71,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide10.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide9.JPG" width="700" />
 </p>
 
 ##
@@ -88,7 +79,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide11.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide10.JPG" width="700" />
 </p>
 
 ##
@@ -96,7 +87,7 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide12.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide11.JPG" width="700" />
 </p>
 
 ##
@@ -104,7 +95,15 @@ User Interface.
 ##
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide21.JPG" alt="The components of the proposed ATCNet model" />
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide12.JPG" width="700" />
+</p>
+
+##
+
+##
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Altaheri/KSU-Mailer/main/imgs/Slide18.JPG" width="700" />
 </p>
 
 ##
